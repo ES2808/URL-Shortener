@@ -1,4 +1,4 @@
-<img width="1303" alt="Screenshot 2024-04-26 at 9 19 48 AM" src="[Your_paragraph_text.png](https://github.com/es2808/url-shortener/assets/123090827/ac7bb77b-f4c2-4cf3-bb0a-d22b1d71d0a8)">
+<img width="1303" alt="URL-Shortener" src="https://github.com/es2808/url-shortener/assets/123090827/ac7bb77b-f4c2-4cf3-bb0a-d22b1d71d0a8">
 
 # URL Shortener
 
