@@ -42,7 +42,7 @@ The response will contain a JSON object with the shortened URL:
 
 ```json
 {
-    "short_url": "https://www.linkedin.com/in/iamprince/"
+    "short_url": "https://www.linkedin.com/in/eklavya2808/"
 }
 ```
 
