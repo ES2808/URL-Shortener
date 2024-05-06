@@ -15,7 +15,7 @@ To use the URL shortener, you need to have Go installed on your system. You can 
 Clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/Prince-1501/url-shortner.git
+git clone https://github.com/es2808/url-shortner.git
 ```
 
 ## Usage
